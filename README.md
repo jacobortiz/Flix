@@ -15,3 +15,4 @@
 
 ### Notes
 Describe any challenges encountered while building the app.
+The only challenges were trying to figure out how to have the images in the grid view to be bigger. I thought I followed everything thoroughly in the video tutorial, but somehow the posters turned out small
